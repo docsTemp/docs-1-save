@@ -1,0 +1,138 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "Documentation culture générale",
+  "logo": {
+    "dark": "/logo/dark.svg",
+    "light": "/logo/light.svg"
+  },
+  "favicon": "/favicon.png",
+  "colors": {
+    "primary": "#9563FF",
+    "light": "#AE87FF",
+    "dark": "#0D001D",
+    "background": {
+      "dark": "#090014"
+    },
+    "anchors": {
+      "from": "#FF7F57",
+      "to": "#9563FF"
+    }
+  },
+  "api": {
+    "playground": {
+      "mode": "hide"
+    }
+  },
+  "tabs": [
+    {
+      "name": "Contrat d'apprentissage",
+      "url": "1/contrat-apprentissage"
+    },
+    {
+      "name": "Entreprise",
+      "url": "1/entreprise"
+    },
+    {
+      "name": "Diagramme",
+      "url": "1/diagramme"
+    },
+    {
+      "name": "Correspondance",
+      "url": "1/correspondance"
+    },
+    {
+      "name": "Droit",
+      "url": "1/droit"
+    },
+    {
+      "name": "Personnes",
+      "url": "1/personnes"
+    },
+    {
+      "name": "Association",
+      "url": "1/association"
+    },
+    {
+      "name": "Commune",
+      "url": "1/commune"
+    },
+    {
+      "name": "Propriété intellectuelle",
+      "url": "1/propriete-intellectuelle"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "Contrat d'apprentissage",
+      "pages": [
+        "1/contrat-apprentissage/contrat-en-general",
+        "1/contrat-apprentissage/definition",
+        "1/contrat-apprentissage/obligations",
+        "1/contrat-apprentissage/clauses"
+      ]
+    },
+    {
+      "group": "Entreprise",
+      "pages": [
+        "1/entreprise/definition",
+        "1/entreprise/personne",
+        "1/entreprise/capitaux",
+        "1/entreprise/bilan",
+        "1/entreprise/mots-clefs"
+      ]
+    },
+    {
+      "group": "Diagramme",
+      "pages": [
+        "1/diagramme/sectoriel",
+        "1/diagramme/histogramme",
+        "1/diagramme/courbes"
+      ]
+    },
+    {
+      "group": "Correspondance",
+      "pages": [
+        "1/correspondance/correspondance"
+      ]
+    },
+    {
+      "group": "Droit",
+      "pages": [
+        "1/droit/definition",
+        "1/droit/vocabulaire",
+        "1/droit/types"
+      ]
+    },
+    {
+      "group": "Personnes",
+      "pages": [
+        "1/personnes/definition"
+      ]
+    },
+    {
+      "group": "Association",
+      "pages": [
+        "1/association/definition",
+        "1/association/organes"
+      ]
+    },
+    {
+      "group": "Commune",
+      "pages": [
+        "1/commune/definition"
+      ]
+    },
+    {
+      "group": "Propriété intellectuelle",
+      "pages": [
+        "1/propriete-intellectuelle/definition",
+        "1/propriete-intellectuelle/durees",
+        "1/propriete-intellectuelle/aop",
+        "1/propriete-intellectuelle/igp"
+      ]
+    }
+  ],
+  "footerSocials": {
+    "github": "https://github.com/Matthiasbrat/docs"
+  }
+}
