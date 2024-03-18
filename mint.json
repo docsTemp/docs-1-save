@@ -26,109 +26,109 @@
   "tabs": [
     {
       "name": "Contrat d'apprentissage",
-      "url": "1/contrat-apprentissage"
+      "url": "contrat-apprentissage"
     },
     {
       "name": "Entreprise",
-      "url": "1/entreprise"
+      "url": "entreprise"
     },
     {
       "name": "Diagramme",
-      "url": "1/diagramme"
+      "url": "diagramme"
     },
     {
       "name": "Correspondance",
-      "url": "1/correspondance"
+      "url": "correspondance"
     },
     {
       "name": "Droit",
-      "url": "1/droit"
+      "url": "droit"
     },
     {
       "name": "Personnes",
-      "url": "1/personnes"
+      "url": "personnes"
     },
     {
       "name": "Association",
-      "url": "1/association"
+      "url": "association"
     },
     {
       "name": "Commune",
-      "url": "1/commune"
+      "url": "commune"
     },
     {
       "name": "Propriété intellectuelle",
-      "url": "1/propriete-intellectuelle"
+      "url": "propriete-intellectuelle"
     }
   ],
   "navigation": [
     {
       "group": "Contrat d'apprentissage",
       "pages": [
-        "1/contrat-apprentissage/contrat-en-general",
-        "1/contrat-apprentissage/definition",
-        "1/contrat-apprentissage/obligations",
-        "1/contrat-apprentissage/clauses"
+        "contrat-apprentissage/contrat-en-general",
+        "contrat-apprentissage/definition",
+        "contrat-apprentissage/obligations",
+        "contrat-apprentissage/clauses"
       ]
     },
     {
       "group": "Entreprise",
       "pages": [
-        "1/entreprise/definition",
-        "1/entreprise/personne",
-        "1/entreprise/capitaux",
-        "1/entreprise/bilan",
-        "1/entreprise/mots-clefs"
+        "entreprise/definition",
+        "entreprise/personne",
+        "entreprise/capitaux",
+        "entreprise/bilan",
+        "entreprise/mots-clefs"
       ]
     },
     {
       "group": "Diagramme",
       "pages": [
-        "1/diagramme/sectoriel",
-        "1/diagramme/histogramme",
-        "1/diagramme/courbes"
+        "diagramme/sectoriel",
+        "diagramme/histogramme",
+        "diagramme/courbes"
       ]
     },
     {
       "group": "Correspondance",
       "pages": [
-        "1/correspondance/correspondance"
+        "correspondance/correspondance"
       ]
     },
     {
       "group": "Droit",
       "pages": [
-        "1/droit/definition",
-        "1/droit/vocabulaire",
-        "1/droit/types"
+        "droit/definition",
+        "droit/vocabulaire",
+        "droit/types"
       ]
     },
     {
       "group": "Personnes",
       "pages": [
-        "1/personnes/definition"
+        "personnes/definition"
       ]
     },
     {
       "group": "Association",
       "pages": [
-        "1/association/definition",
-        "1/association/organes"
+        "association/definition",
+        "association/organes"
       ]
     },
     {
       "group": "Commune",
       "pages": [
-        "1/commune/definition"
+        "commune/definition"
       ]
     },
     {
       "group": "Propriété intellectuelle",
       "pages": [
-        "1/propriete-intellectuelle/definition",
-        "1/propriete-intellectuelle/durees",
-        "1/propriete-intellectuelle/aop",
-        "1/propriete-intellectuelle/igp"
+        "propriete-intellectuelle/definition",
+        "propriete-intellectuelle/durees",
+        "propriete-intellectuelle/aop",
+        "propriete-intellectuelle/igp"
       ]
     }
   ],
